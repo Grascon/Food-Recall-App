@@ -81,7 +81,7 @@ td {
 	display: none;
 	margin-bottom: 5px;
 }
-.about-section{
+.about-section, .how-section {
 	margin-bottom: 25px; 
 }
 p {
